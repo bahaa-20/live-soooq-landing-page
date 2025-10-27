@@ -1323,7 +1323,7 @@ main .hero-content>svg {
     .steps .step .number {
         font-size: 140px;
         top: 50% !important;
-        transform: translateY(-70%);
+        transform: translate(-50%, -20%);
         z-index: -1;
     }
 
@@ -1379,7 +1379,8 @@ main .hero-content>svg {
         font-size: 20px;
     }
 
-    .never-wait .container>img {
+    .never-wait .container>img,
+    .never-wait .container>video {
         display: none;
     }
 
