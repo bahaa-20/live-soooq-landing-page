@@ -24,6 +24,11 @@
   color: #ff8100;
 }
 
+.content.container .text ul {
+  margin: 8px 0;
+  line-height: 1.5;
+}
+
 @media (max-width: 767px) {
   .content.container {
     padding: 32px 32px 80px 32px;
