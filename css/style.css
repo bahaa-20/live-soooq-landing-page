@@ -102,6 +102,10 @@ button {
 
 /* Styling starts here */
 
+body {
+    background-color: var(--secondary-color, #2A2A2A);
+}
+
 .mobile-nav,
 .sidebar,
 .overlay {
